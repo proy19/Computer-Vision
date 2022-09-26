@@ -8,7 +8,7 @@
 To test my code, I measured the distance of the side of a remote object shown in `pic.jpeg`. 
 
 ## Part C : Application Development
-3) No, it is not feasible. I ran the code (source: docs.luxonis.com) in files `depth_stereo_camera.py` and `rgb_mono_camera.py`, but it kept giving me errors and did not open the camera. 
+3) No, it is not feasible. I ran the code in files `depth_stereo_camera.py` and `rgb_mono_camera.py`, but it kept giving me errors and did not open the camera. 
 
 4) Intrinsic Matrix from Part A 
 
@@ -16,7 +16,7 @@ To test my code, I measured the distance of the side of a remote object shown in
    [  547.6532 +/- 2.6145      358.7546 +/- 3.3394  ]
    [  0.1792 +/- 0.0126       -0.3098 +/- 0.0468  ]
    
-   Intrinsic Matrix from Part C (source : docs.luxonis.com/en/latest/pages/calibration/) 
+   Intrinsic Matrix from Part C (tutorial source : docs.luxonis.com/en/latest/pages/calibration/) 
    
    [ 1042.0007 +/- 10.1824    1062.4316 +/- 11.8110 ]
    [  498.5199 +/- 2.1191      224.9145 +/- 2.4126  ]
