@@ -4,7 +4,7 @@
 1) I calibrated the camera in MATLAB. Outputs/Script shown in file `Priyangka_Roy_Camera_Calibration.pdf`
 
 ## Part B : MATLAB Prototyping 
-2) To find real world dimensions, I used the MATLAB ginput() function. The code is shown in `Part_B`. 
+2) To find real world dimensions, I used the MATLAB ginput() function. The code is shown in `Part_B.pdf`. 
 To test my code, I measured the distance of the side of a remote object shown in `pic.jpeg`. 
 
 ## Part C : Application Development
