@@ -8,7 +8,7 @@
 To test my code, I measured the distance of the side of a remote object shown in `pic.jpeg`. 
 
 ## Part C : Application Development
-3) No, it is not feasible. I ran the code in files `depth_stereo_camera.py` and `rgb_mono_camera.py`, but it kept giving me errors and did not open the camera. 
+3) Yes, it is feasible. Max Frame Rate: 200. Resolution: 1910 x 2240
 
 4) Matrix from Part A 
 
