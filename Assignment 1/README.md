@@ -1,7 +1,7 @@
 # Assignment 1 
 
 ## Part A : Fundamentals
-1) I calibrated the camera in MATLAB. Outputs/Script shown in file `Priyangka_Roy_Camera_Calibration.pdf`
+1) I calibrated the camera in MATLAB. Outputs/Script shown in the calibration mlx file.
 
 ## Part B : MATLAB Prototyping 
 2) To find real world dimensions, I used the MATLAB ginput() function. The code is shown in `Part_B.pdf`. 
