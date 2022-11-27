@@ -18,6 +18,6 @@ for img in images:
     matching.append(ssd)
 
 print(matching)
-cv2.imshow("image of interest",img_final)
+cv2.imshow("image",img_final)
 plt.imshow(img_final)
 plt.show()
